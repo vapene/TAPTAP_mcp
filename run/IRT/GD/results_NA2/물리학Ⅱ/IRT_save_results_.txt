@@ -1,0 +1,6 @@
+Combined Mean Score: 101.95
+Mean AUC Score: 1.0, [1.0]
+Mean ACC Score: 0.95, [0.95]
+Mean FPR Score: 0.0, [0.0]
+Mean Recall Score: 0.6666666666666666, [0.6666666666666666]
+

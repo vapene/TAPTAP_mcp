@@ -1,0 +1,10 @@
+Combined Mean Score: 0 nan
+Mean AUC Score: 0, 0
+nan, []
+Mean ACC Score: 0, 0
+nan, []
+Mean FPR Score: 100, 100
+nan, []
+Mean Recall Score: 0, 0
+nan, []
+

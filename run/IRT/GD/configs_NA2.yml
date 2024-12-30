@@ -1,0 +1,92 @@
+경제:
+  alpha: 0.37
+  gamma: 5.0
+  batch_size: 64
+사회?문화:
+  alpha: 0.27
+  gamma: 4.5
+  batch_size: 1024
+세계사:
+  alpha: 0.35
+  gamma: 3.5
+  batch_size: 1024
+윤리와 사상:
+  alpha: 0.52
+  gamma: 1.5
+  batch_size: 1024
+세계지리:
+  alpha: 0.21
+  gamma: 5.0
+  batch_size: 64
+생활과 윤리:
+  alpha: 0.57
+  gamma: 2
+  batch_size: 1024
+동아시아사:
+  alpha: 0.26
+  gamma: 4.5
+  batch_size: 256
+한국지리:
+  alpha: 0.85
+  gamma: 1
+  batch_size: 256
+물리학Ⅱ:
+  alpha: 0.24
+  gamma: 4
+  batch_size: 512
+화학Ⅰ:
+  alpha: 0.26
+  gamma: 3
+  batch_size: 1024
+수학Ⅰ,수학Ⅱ:
+  alpha: 0.17
+  gamma: 5.0
+  batch_size: 1024
+독서,문학:
+  alpha: 0.2
+  gamma: 5.0
+  batch_size: 128
+생명과학Ⅱ:
+  alpha: 0.13
+  gamma: 4.5
+  batch_size: 128
+지구과학Ⅰ:
+  alpha: 0.59
+  gamma: 0.5
+  batch_size: 256
+지구과학Ⅱ:
+  alpha: 0.18
+  gamma: 3
+  batch_size: 32
+통합과학:
+  alpha: 0.35
+  gamma: 3
+  batch_size: 1024
+통합사회:
+  alpha: 0.7
+  gamma: 1
+  batch_size: 128
+생명과학Ⅰ:
+  alpha: 0.6
+  gamma: 0.5
+  batch_size: 1024
+한국사:
+  alpha: 0.24
+  gamma: 4.5
+  batch_size: 1024
+독해:
+  alpha: 0.7
+  gamma: 1
+  batch_size: 128
+화학Ⅱ:
+  alpha: 0.49
+  gamma: 2.5
+  batch_size: 32
+정치와 법:
+  alpha: 0.22
+  gamma: 4.5
+  batch_size: 512
+물리학Ⅰ:
+  alpha: 0.34
+  gamma: 2.5
+  batch_size: 256
