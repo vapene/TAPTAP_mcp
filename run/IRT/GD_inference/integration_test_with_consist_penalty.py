@@ -80,9 +80,6 @@ def process_subject(args):
 
     rank_counts = {'low': 0, 'middle': 0, 'high': 0}  # Initialize rank counts
     
-    
-    
-    
     for idx_random_list, random_list_ in subject_random_lists.items():
         
         set_seed(args_model.seed)

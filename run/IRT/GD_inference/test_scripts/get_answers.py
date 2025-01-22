@@ -98,6 +98,9 @@ for subject_ in all_subjects:
     merged_df = merged_df[['mapping_value','problem_seq','subject','answer']].sort_values(by='mapping_value')
 
     # Save the sorted DataFrame to a new CSV file
+    if not os.path.exists(filtered_csv_dir):
+        os.makedirs(filtered_csv_dir)
+    
     merged_df.to_csv(f"{filtered_csv_dir}/{subject_}.csv", index=False)
     merged_df
 

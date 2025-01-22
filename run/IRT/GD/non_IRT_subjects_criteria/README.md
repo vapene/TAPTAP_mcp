@@ -27,8 +27,11 @@ This directory is designated for evaluating performance levels—상 (high), 중
   "subject1": [float1, float2],
   "subject2": [float1, float2]
 }
-
+```
 float1 represents the threshold score for transitioning from low to medium performance.
 float2 indicates the threshold score for moving from medium to high performance.
 
 The scoring thresholds (float1 and float2) determine the performance tier of students taking the exam. Students will be classified into 상, 중, or 하 based on their scores relative to these thresholds.
+
+## Update
+Update to `/root/jw/TAPTAP_IRT/run/IRT/GD_inference/middle_high_rank.json` manually. 

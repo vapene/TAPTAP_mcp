@@ -88,7 +88,7 @@ Execute the code **`IRT_threshold.py`**.
 
 👉 **Note:** Manually update the results of `middle_high_rank.json` for IRT subjects.
 
-## **3. Rerun `Integration_test_with_consist_penalty.py`**
+## **3. Rerun `integration_test_with_consist_penalty.py`**
 
 Re-run with updated `middle_high_rank.json` will give the final `compiled_data.csv`.
 
